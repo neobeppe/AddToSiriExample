@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:SiriTest.xcodeproj">
+      location = "self:/Users/beppe/Desktop/SiriTest/AddToSiriExample.xcodeproj">
    </FileRef>
 </Workspace>

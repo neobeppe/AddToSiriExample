@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7A294341219D94D9007126F2 /* SiriTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SiriTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7A294341219D94D9007126F2 /* AddToSiriExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AddToSiriExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A294344219D94D9007126F2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7A294346219D94D9007126F2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		7A294349219D94D9007126F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -38,7 +38,7 @@
 		7A294338219D94D8007126F2 = {
 			isa = PBXGroup;
 			children = (
-				7A294343219D94D9007126F2 /* SiriTest */,
+				7A294343219D94D9007126F2 /* AddToSiriExample */,
 				7A294342219D94D9007126F2 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -46,12 +46,12 @@
 		7A294342219D94D9007126F2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7A294341219D94D9007126F2 /* SiriTest.app */,
+				7A294341219D94D9007126F2 /* AddToSiriExample.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7A294343219D94D9007126F2 /* SiriTest */ = {
+		7A294343219D94D9007126F2 /* AddToSiriExample */ = {
 			isa = PBXGroup;
 			children = (
 				7A294344219D94D9007126F2 /* AppDelegate.swift */,
@@ -61,15 +61,15 @@
 				7A29434D219D94DB007126F2 /* LaunchScreen.storyboard */,
 				7A294350219D94DB007126F2 /* Info.plist */,
 			);
-			path = SiriTest;
+			path = AddToSiriExample;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7A294340219D94D8007126F2 /* SiriTest */ = {
+		7A294340219D94D8007126F2 /* AddToSiriExample */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7A294353219D94DB007126F2 /* Build configuration list for PBXNativeTarget "SiriTest" */;
+			buildConfigurationList = 7A294353219D94DB007126F2 /* Build configuration list for PBXNativeTarget "AddToSiriExample" */;
 			buildPhases = (
 				7A29433D219D94D8007126F2 /* Sources */,
 				7A29433E219D94D8007126F2 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = SiriTest;
+			name = AddToSiriExample;
 			productName = SiriTest;
-			productReference = 7A294341219D94D9007126F2 /* SiriTest.app */;
+			productReference = 7A294341219D94D9007126F2 /* AddToSiriExample.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +99,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 7A29433C219D94D8007126F2 /* Build configuration list for PBXProject "SiriTest" */;
+			buildConfigurationList = 7A29433C219D94D8007126F2 /* Build configuration list for PBXProject "AddToSiriExample" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7A294340219D94D8007126F2 /* SiriTest */,
+				7A294340219D94D8007126F2 /* AddToSiriExample */,
 			);
 		};
 /* End PBXProject section */
@@ -284,7 +284,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = G6W7HL5NXX;
-				INFOPLIST_FILE = SiriTest/Info.plist;
+				INFOPLIST_FILE = AddToSiriExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -302,7 +302,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = G6W7HL5NXX;
-				INFOPLIST_FILE = SiriTest/Info.plist;
+				INFOPLIST_FILE = AddToSiriExample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -317,7 +317,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7A29433C219D94D8007126F2 /* Build configuration list for PBXProject "SiriTest" */ = {
+		7A29433C219D94D8007126F2 /* Build configuration list for PBXProject "AddToSiriExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7A294351219D94DB007126F2 /* Debug */,
@@ -326,7 +326,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7A294353219D94DB007126F2 /* Build configuration list for PBXNativeTarget "SiriTest" */ = {
+		7A294353219D94DB007126F2 /* Build configuration list for PBXNativeTarget "AddToSiriExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7A294354219D94DB007126F2 /* Debug */,
